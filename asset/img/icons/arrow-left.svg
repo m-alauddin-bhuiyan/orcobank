@@ -1,0 +1,38 @@
+<svg width="31" height="32" viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="31" height="32" fill="#3A3A3A"/>
+<g id="Banking Websites" clip-path="url(#clip0_131_74)">
+<rect width="1440" height="6634" transform="translate(-730 -1785)" fill="#F5F5F5"/>
+<g id="Ellipse 14" opacity="0.2" filter="url(#filter0_f_131_74)">
+<circle cx="-874" cy="-396" r="563" fill="#24B36A"/>
+</g>
+<g id="Ellipse 15" opacity="0.2" filter="url(#filter1_f_131_74)">
+<circle cx="626" cy="716" r="563" fill="white"/>
+</g>
+<g id="Group 278">
+<g id="Group 277">
+<g id="Frame 559">
+<path d="M-292.814 -59.0382C-292.814 -67.469 -285.98 -74.3036 -277.549 -74.3036H56V47.8195H-292.814V-59.0382Z" fill="#F5F5F5"/>
+<g id="fi:arrow-down-left">
+<path id="Vector" d="M9.18617 22.1228L21.9073 9.40164" stroke="#122038" stroke-width="2.54423" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M9.18618 9.40164L21.9073 9.40164L21.9073 22.1228" stroke="#122038" stroke-width="2.54423" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_131_74" x="-2041" y="-1563" width="2334" height="2334" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="302" result="effect1_foregroundBlur_131_74"/>
+</filter>
+<filter id="filter1_f_131_74" x="-541" y="-451" width="2334" height="2334" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="302" result="effect1_foregroundBlur_131_74"/>
+</filter>
+<clipPath id="clip0_131_74">
+<rect width="1440" height="6634" fill="white" transform="translate(-730 -1785)"/>
+</clipPath>
+</defs>
+</svg>
